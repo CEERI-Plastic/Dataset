@@ -1,12 +1,10 @@
-0      Type
-1       904
-2       910
-3       917
-4       923
-       ... 
-124    1680
-125    1687
-126    1693
-127    1699
-128    1706
-Name: Unnamed: 0, Length: 129, dtype: object
+Unnamed: 0    Type
+0              hue
+1              hue
+2              hue
+3              hue
+4              hue
+5              hue
+6              hue
+7              hue
+Name: 0, dtype: object
